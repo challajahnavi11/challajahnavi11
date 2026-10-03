@@ -8,7 +8,7 @@
 
 I'm a Computer Science & Data Science graduate interested in building practical solutions using data, machine learning, and AI.
 
-I'm currently strengthening my skills in Python, SQL, machine learning, NLP, data engineering, and generative AI through hands-on projects and continuous learning.
+I'm currently building hands-on projects in machine learning, NLP, data engineering, and generative AI while strengthening my skills in Python and SQL.
 
 I enjoy learning by building practical solutions and exploring how AI and data systems can be applied to real-world problems.
 
